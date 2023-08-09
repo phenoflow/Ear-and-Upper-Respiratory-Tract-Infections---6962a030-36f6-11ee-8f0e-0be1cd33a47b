@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections---secondary.py
+inputModule3:
+  class: File
+  path: python/nasopharyngeal-ear-and-upper-respiratory-tract-infections---secondary.py
+inputModule4:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-diphtheria---secondary.py
+inputModule5:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-pharyngitis---secondary.py
+inputModule6:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-pharynx---secondary.py
+inputModule7:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-media---secondary.py
+inputModule8:
+  class: File
+  path: python/infectious-ear-and-upper-respiratory-tract-infections---secondary.py
+inputModule9:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-myiasis---secondary.py
+inputModule10:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-externa---secondary.py
+inputModule11:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-classified---secondary.py
+inputModule12:
+  class: File
+  path: python/parasitic-ear-and-upper-respiratory-tract-infections---secondary.py
+inputModule13:
+  class: File
+  path: python/other-ear-and-upper-respiratory-tract-infections---secondary.py
+inputModule14:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-unspecified---secondary.py
+inputModule15:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-mastoiditis---secondary.py
+inputModule16:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-myringitis---secondary.py
+inputModule17:
+  class: File
+  path: python/chronic-ear-and-upper-respiratory-tract-infections---secondary.py
+inputModule18:
+  class: File
+  path: python/acute-ear-and-upper-respiratory-tract-infections---secondary.py
+inputModule19:
+  class: File
+  path: python/ear-and-upper-respiratory-tract-infections-abscess---secondary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
